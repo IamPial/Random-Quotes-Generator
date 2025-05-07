@@ -31,9 +31,9 @@ To run this project locally:
 
 *** random-quotes-generator---
 
- ** index.html         # Main HTML file
- ** style.css          # Styling and animation
- ** script.js          # DOM logic and API call
+ ** index.html --        # Main HTML file
+ ** style.css --         # Styling and animation
+ ** script.js --         # DOM logic and API call
 
 ** How It Works
 
