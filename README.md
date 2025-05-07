@@ -27,13 +27,13 @@ It dynamically fetches inspirational quotes from an API and displays them with a
 
 To run this project locally:
 
-***Project Structure***
+Project Structure
 
 *** random-quotes-generator---
 
-├── index.html         # Main HTML file
-├── style.css          # Styling and animation
-└── script.js          # DOM logic and API call
+** index.html         # Main HTML file
+** style.css          # Styling and animation
+** script.js          # DOM logic and API call
 
 ** How It Works
 
